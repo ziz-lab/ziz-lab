@@ -1,16 +1,34 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**ziz-lab/ziz-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ZIZ° Lab
 
-Here are some ideas to get you started:
+`ink` · `paper` · `one red dot`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**A small lab for AI experiments.**<br>
+Ideas get built here, tested, and shipped to people.
+
+</div>
+
+---
+
+### ● What I build
+
+AI tools that cut everyday work<br>
+Arabic multiplayer games that bring people together<br>
+Experiments in HR and employee experience
+
+### ● Now building
+
+**ZIZ° Games** — Arabic multiplayer mobile games *(in progress)*
+
+### ● Principle
+
+> People first. Tech serves them.
+
+---
+
+<div align="center">
+
+Made in Saudi Arabia · **ZIZ°**
+
+</div>
